@@ -1,5 +1,5 @@
 kind: Cluster
-name: c2
+name: cluster-c
 apiVersion: kind.x-k8s.io/v1alpha4
 nodes:
   - role: control-plane
